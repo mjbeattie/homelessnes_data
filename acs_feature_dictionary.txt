@@ -1,7 +1,7 @@
 Category	Feature	Alias	ACS Field Name	Per Capita Value
 Population	Total	pop_tot	B01001_001E	pop_tot_pcp
 Population	Male	pop_male	B01001_002E	pop_male_pcp
-Population	Female	pop_female	B01001_003E	pop_female_pcp
+Population	Female	pop_female	B01001_026E	pop_female_pcp
 Population	White Not Hisp	pop_white	B01001H_001E	pop_white_pcp
 Population	Black Alone	pop_black	B01001B_001E	pop_black_pcp
 Population	Amer Indian/AK	pop_aiak	B01001C_001E	pop_aiak_pcp
