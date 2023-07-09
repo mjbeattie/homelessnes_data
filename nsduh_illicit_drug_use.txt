@@ -1,0 +1,511 @@
+state	year	illicitusepastmon
+Alabama	2014	325000
+Alaska	2014	77000
+Arizona	2014	614000
+Arkansas	2014	215000
+California	2014	3671000
+Colorado	2014	737000
+Connecticut	2014	302000
+Delaware	2014	82000
+District of Columbia	2014	85000
+Florida	2014	1552000
+Georgia	2014	794000
+Hawaii	2014	110000
+Idaho	2014	102000
+Illinois	2014	1024000
+Indiana	2014	497000
+Iowa	2014	162000
+Kansas	2014	188000
+Kentucky	2014	306000
+Louisiana	2014	324000
+Maine	2014	155000
+Maryland	2014	535000
+Massachusetts	2014	759000
+Michigan	2014	975000
+Minnesota	2014	403000
+Mississippi	2014	207000
+Missouri	2014	465000
+Montana	2014	95000
+Nebraska	2014	105000
+Nevada	2014	223000
+New Hampshire	2014	144000
+New Jersey	2014	597000
+New Mexico	2014	189000
+New York	2014	1737000
+North Carolina	2014	704000
+North Dakota	2014	44000
+Ohio	2014	847000
+Oklahoma	2014	266000
+Oregon	2014	462000
+Pennsylvania	2014	995000
+Rhode Island	2014	131000
+South Carolina	2014	320000
+South Dakota	2014	40000
+Tennessee	2014	393000
+Texas	2014	1629000
+Utah	2014	167000
+Vermont	2014	79000
+Virginia	2014	562000
+Washington	2014	828000
+West Virginia	2014	123000
+Wisconsin	2014	401000
+Wyoming	2014	34000
+Alabama	2015	389000
+Alaska	2015	127000
+Arizona	2015	734000
+Arkansas	2015	284000
+California	2015	4936000
+Colorado	2015	1033000
+Connecticut	2015	479000
+Delaware	2015	103000
+District of Columbia	2015	134000
+Florida	2015	2152000
+Georgia	2015	1052000
+Hawaii	2015	147000
+Idaho	2015	152000
+Illinois	2015	1339000
+Indiana	2015	760000
+Iowa	2015	235000
+Kansas	2015	292000
+Kentucky	2015	449000
+Louisiana	2015	427000
+Maine	2015	227000
+Maryland	2015	757000
+Massachusetts	2015	1058000
+Michigan	2015	1266000
+Minnesota	2015	579000
+Mississippi	2015	212000
+Missouri	2015	683000
+Montana	2015	133000
+Nebraska	2015	166000
+Nevada	2015	309000
+New Hampshire	2015	199000
+New Jersey	2015	894000
+New Mexico	2015	253000
+New York	2015	2519000
+North Carolina	2015	975000
+North Dakota	2015	61000
+Ohio	2015	1179000
+Oklahoma	2015	358000
+Oregon	2015	659000
+Pennsylvania	2015	1339000
+Rhode Island	2015	170000
+South Carolina	2015	507000
+South Dakota	2015	75000
+Tennessee	2015	606000
+Texas	2015	2213000
+Utah	2015	211000
+Vermont	2015	111000
+Virginia	2015	796000
+Washington	2015	1037000
+West Virginia	2015	174000
+Wisconsin	2015	584000
+Wyoming	2015	52000
+Alabama	2016	289000
+Alaska	2016	103000
+Arizona	2016	568000
+Arkansas	2016	219000
+California	2016	4097000
+Colorado	2016	785000
+Connecticut	2016	335000
+Delaware	2016	82000
+District of Columbia	2016	98000
+Florida	2016	1696000
+Georgia	2016	791000
+Hawaii	2016	119000
+Idaho	2016	123000
+Illinois	2016	997000
+Indiana	2016	549000
+Iowa	2016	176000
+Kansas	2016	191000
+Kentucky	2016	320000
+Louisiana	2016	341000
+Maine	2016	171000
+Maryland	2016	579000
+Massachusetts	2016	818000
+Michigan	2016	1024000
+Minnesota	2016	417000
+Mississippi	2016	197000
+Missouri	2016	523000
+Montana	2016	115000
+Nebraska	2016	134000
+Nevada	2016	252000
+New Hampshire	2016	154000
+New Jersey	2016	614000
+New Mexico	2016	206000
+New York	2016	1871000
+North Carolina	2016	830000
+North Dakota	2016	44000
+Ohio	2016	1008000
+Oklahoma	2016	243000
+Oregon	2016	594000
+Pennsylvania	2016	1140000
+Rhode Island	2016	150000
+South Carolina	2016	348000
+South Dakota	2016	63000
+Tennessee	2016	515000
+Texas	2016	1685000
+Utah	2016	176000
+Vermont	2016	99000
+Virginia	2016	575000
+Washington	2016	818000
+West Virginia	2016	130000
+Wisconsin	2016	414000
+Wyoming	2016	38000
+Alabama	2017	353000
+Alaska	2017	98000
+Arizona	2017	624000
+Arkansas	2017	260000
+California	2017	4309000
+Colorado	2017	829000
+Connecticut	2017	377000
+Delaware	2017	95000
+District of Columbia	2017	117000
+Florida	2017	1836000
+Georgia	2017	711000
+Hawaii	2017	111000
+Idaho	2017	125000
+Illinois	2017	1076000
+Indiana	2017	621000
+Iowa	2017	212000
+Kansas	2017	197000
+Kentucky	2017	336000
+Louisiana	2017	356000
+Maine	2017	189000
+Maryland	2017	599000
+Massachusetts	2017	940000
+Michigan	2017	1129000
+Minnesota	2017	422000
+Mississippi	2017	227000
+Missouri	2017	526000
+Montana	2017	126000
+Nebraska	2017	141000
+Nevada	2017	332000
+New Hampshire	2017	165000
+New Jersey	2017	641000
+New Mexico	2017	233000
+New York	2017	1858000
+North Carolina	2017	828000
+North Dakota	2017	47000
+Ohio	2017	990000
+Oklahoma	2017	270000
+Oregon	2017	732000
+Pennsylvania	2017	1102000
+Rhode Island	2017	159000
+South Carolina	2017	348000
+South Dakota	2017	60000
+Tennessee	2017	538000
+Texas	2017	1736000
+Utah	2017	196000
+Vermont	2017	105000
+Virginia	2017	575000
+Washington	2017	1034000
+West Virginia	2017	140000
+Wisconsin	2017	445000
+Wyoming	2017	41000
+Alabama	2018	439000
+Alaska	2018	106000
+Arizona	2018	736000
+Arkansas	2018	266000
+California	2018	4443000
+Colorado	2018	928000
+Connecticut	2018	439000
+Delaware	2018	107000
+District of Columbia	2018	118000
+Florida	2018	1931000
+Georgia	2018	821000
+Hawaii	2018	119000
+Idaho	2018	134000
+Illinois	2018	1179000
+Indiana	2018	658000
+Iowa	2018	247000
+Kansas	2018	210000
+Kentucky	2018	379000
+Louisiana	2018	369000
+Maine	2018	203000
+Maryland	2018	584000
+Massachusetts	2018	939000
+Michigan	2018	1218000
+Minnesota	2018	498000
+Mississippi	2018	214000
+Missouri	2018	521000
+Montana	2018	140000
+Nebraska	2018	150000
+Nevada	2018	412000
+New Hampshire	2018	181000
+New Jersey	2018	697000
+New Mexico	2018	245000
+New York	2018	1901000
+North Carolina	2018	797000
+North Dakota	2018	54000
+Ohio	2018	983000
+Oklahoma	2018	305000
+Oregon	2018	709000
+Pennsylvania	2018	1071000
+Rhode Island	2018	152000
+South Carolina	2018	416000
+South Dakota	2018	60000
+Tennessee	2018	564000
+Texas	2018	1814000
+Utah	2018	189000
+Vermont	2018	111000
+Virginia	2018	609000
+Washington	2018	1118000
+West Virginia	2018	163000
+Wisconsin	2018	509000
+Wyoming	2018	43000
+Alabama	2019	434000
+Alaska	2019	110000
+Arizona	2019	765000
+Arkansas	2019	236000
+California	2019	5034000
+Colorado	2019	924000
+Connecticut	2019	434000
+Delaware	2019	118000
+District of Columbia	2019	114000
+Florida	2019	2093000
+Georgia	2019	899000
+Hawaii	2019	136000
+Idaho	2019	148000
+Illinois	2019	1284000
+Indiana	2019	700000
+Iowa	2019	242000
+Kansas	2019	240000
+Kentucky	2019	425000
+Louisiana	2019	360000
+Maine	2019	220000
+Maryland	2019	644000
+Massachusetts	2019	1008000
+Michigan	2019	1312000
+Minnesota	2019	534000
+Mississippi	2019	225000
+Missouri	2019	543000
+Montana	2019	147000
+Nebraska	2019	149000
+Nevada	2019	450000
+New Hampshire	2019	185000
+New Jersey	2019	765000
+New Mexico	2019	243000
+New York	2019	2062000
+North Carolina	2019	927000
+North Dakota	2019	56000
+Ohio	2019	1146000
+Oklahoma	2019	392000
+Oregon	2019	712000
+Pennsylvania	2019	1196000
+Rhode Island	2019	158000
+South Carolina	2019	450000
+South Dakota	2019	54000
+Tennessee	2019	578000
+Texas	2019	2054000
+Utah	2019	208000
+Vermont	2019	115000
+Virginia	2019	654000
+Washington	2019	1235000
+West Virginia	2019	164000
+Wisconsin	2019	537000
+Wyoming	2019	42000
+Alabama	2021	403000
+Alaska	2021	127000
+Arizona	2021	1133000
+Arkansas	2021	281000
+California	2021	5207000
+Colorado	2021	995000
+Connecticut	2021	482000
+Delaware	2021	144000
+District of Columbia	2021	133000
+Florida	2021	2179000
+Georgia	2021	1100000
+Hawaii	2021	126000
+Idaho	2021	184000
+Illinois	2021	1726000
+Indiana	2021	740000
+Iowa	2021	334000
+Kansas	2021	318000
+Kentucky	2021	434000
+Louisiana	2021	550000
+Maine	2021	241000
+Maryland	2021	768000
+Massachusetts	2021	1102000
+Michigan	2021	1627000
+Minnesota	2021	672000
+Mississippi	2021	325000
+Missouri	2021	759000
+Montana	2021	163000
+Nebraska	2021	183000
+Nevada	2021	507000
+New Hampshire	2021	180000
+New Jersey	2021	1028000
+New Mexico	2021	359000
+New York	2021	2842000
+North Carolina	2021	983000
+North Dakota	2021	69000
+Ohio	2021	1501000
+Oklahoma	2021	568000
+Oregon	2021	765000
+Pennsylvania	2021	1613000
+Rhode Island	2021	187000
+South Carolina	2021	546000
+South Dakota	2021	73000
+Tennessee	2021	695000
+Texas	2021	2061000
+Utah	2021	293000
+Vermont	2021	136000
+Virginia	2021	932000
+Washington	2021	1283000
+West Virginia	2021	218000
+Wisconsin	2021	659000
+Wyoming	2021	62000
+Alabama	2013	304000
+Alaska	2013	75000
+Arizona	2013	564000
+Arkansas	2013	194000
+California	2013	3527000
+Colorado	2013	641000
+Connecticut	2013	302000
+Delaware	2013	74000
+District of Columbia	2013	83000
+Florida	2013	1423000
+Georgia	2013	771000
+Hawaii	2013	117000
+Idaho	2013	89000
+Illinois	2013	934000
+Indiana	2013	430000
+Iowa	2013	188000
+Kansas	2013	141000
+Kentucky	2013	263000
+Louisiana	2013	295000
+Maine	2013	130000
+Maryland	2013	440000
+Massachusetts	2013	658000
+Michigan	2013	954000
+Minnesota	2013	343000
+Mississippi	2013	176000
+Missouri	2013	443000
+Montana	2013	94000
+Nebraska	2013	103000
+Nevada	2013	247000
+New Hampshire	2013	128000
+New Jersey	2013	552000
+New Mexico	2013	182000
+New York	2013	1645000
+North Carolina	2013	607000
+North Dakota	2013	38000
+Ohio	2013	939000
+Oklahoma	2013	240000
+Oregon	2013	461000
+Pennsylvania	2013	904000
+Rhode Island	2013	141000
+South Carolina	2013	347000
+South Dakota	2013	42000
+Tennessee	2013	386000
+Texas	2013	1509000
+Utah	2013	156000
+Vermont	2013	69000
+Virginia	2013	544000
+Washington	2013	792000
+West Virginia	2013	100000
+Wisconsin	2013	401000
+Wyoming	2013	32000
+Alabama	2012	308000
+Alaska	2012	80000
+Arizona	2012	509000
+Arkansas	2012	182000
+California	2012	3437000
+Colorado	2012	518000
+Connecticut	2012	290000
+Delaware	2012	71000
+District of Columbia	2012	73000
+Florida	2012	1352000
+Georgia	2012	593000
+Hawaii	2012	109000
+Idaho	2012	92000
+Illinois	2012	931000
+Indiana	2012	457000
+Iowa	2012	190000
+Kansas	2012	127000
+Kentucky	2012	259000
+Louisiana	2012	260000
+Maine	2012	114000
+Maryland	2012	356000
+Massachusetts	2012	616000
+Michigan	2012	905000
+Minnesota	2012	369000
+Mississippi	2012	188000
+Missouri	2012	372000
+Montana	2012	97000
+Nebraska	2012	102000
+Nevada	2012	250000
+New Hampshire	2012	117000
+New Jersey	2012	592000
+New Mexico	2012	192000
+New York	2012	1603000
+North Carolina	2012	626000
+North Dakota	2012	36000
+Ohio	2012	917000
+Oklahoma	2012	258000
+Oregon	2012	454000
+Pennsylvania	2012	867000
+Rhode Island	2012	140000
+South Carolina	2012	345000
+South Dakota	2012	47000
+Tennessee	2012	381000
+Texas	2012	1457000
+Utah	2012	132000
+Vermont	2012	77000
+Virginia	2012	499000
+Washington	2012	680000
+West Virginia	2012	110000
+Wisconsin	2012	391000
+Wyoming	2012	33000
+Alabama	2011	299000
+Alaska	2011	77000
+Arizona	2011	509000
+Arkansas	2011	182000
+California	2011	3213000
+Colorado	2011	559000
+Connecticut	2011	271000
+Delaware	2011	67000
+District of Columbia	2011	71000
+Florida	2011	1320000
+Georgia	2011	517000
+Hawaii	2011	95000
+Idaho	2011	118000
+Illinois	2011	910000
+Indiana	2011	479000
+Iowa	2011	161000
+Kansas	2011	155000
+Kentucky	2011	249000
+Louisiana	2011	251000
+Maine	2011	109000
+Maryland	2011	355000
+Massachusetts	2011	647000
+Michigan	2011	889000
+Minnesota	2011	362000
+Mississippi	2011	195000
+Missouri	2011	362000
+Montana	2011	100000
+Nebraska	2011	99000
+Nevada	2011	218000
+New Hampshire	2011	124000
+New Jersey	2011	584000
+New Mexico	2011	177000
+New York	2011	1525000
+North Carolina	2011	692000
+North Dakota	2011	31000
+Ohio	2011	815000
+Oklahoma	2011	274000
+Oregon	2011	425000
+Pennsylvania	2011	862000
+Rhode Island	2011	130000
+South Carolina	2011	282000
+South Dakota	2011	40000
+Tennessee	2011	402000
+Texas	2011	1442000
+Utah	2011	108000
+Vermont	2011	83000
+Virginia	2011	523000
+Washington	2011	670000
+West Virginia	2011	125000
+Wisconsin	2011	369000
+Wyoming	2011	33000

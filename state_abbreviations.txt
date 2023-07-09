@@ -1,53 +1,53 @@
-state	statecode
-Alabama	AL
-Alaska	AK
-Arizona	AZ
-Arkansas	AR
-California	CA
-Colorado	CO
-Connecticut	CT
-Delaware	DE
-District of Columbia	DC
-Florida	FL
-Georgia	GA
-Hawaii	HI
-Idaho	ID
-Illinois	IL
-Indiana	IN
-Iowa	IA
-Kansas	KS
-Kentucky	KY
-Louisiana	LA
-Maine	ME
-Maryland	MD
-Massachusetts	MA
-Michigan	MI
-Minnesota	MN
-Mississippi	MS
-Missouri	MO
-Montana	MT
-Nebraska	NE
-Nevada	NV
-New Hampshire	NH
-New Jersey	NJ
-New Mexico	NM
-New York	NY
-North Carolina	NC
-North Dakota	ND
-Ohio	OH
-Oklahoma	OK
-Oregon	OR
-Pennsylvania	PA
-Puerto Rico	PR
-Rhode Island	RI
-South Carolina	SC
-South Dakota	SD
-Tennessee	TN
-Texas	TX
-Utah	UT
-Vermont	VT
-Virginia	VA
-Washington	WA
-West Virginia	WV
-Wisconsin	WI
-Wyoming	WY
+state	statecode	court	census_region
+Maine	ME	1	northeast
+Massachusetts	MA	1	northeast
+New Hampshire	NH	1	northeast
+Puerto Rico	PR	1	territory
+Rhode Island	RI	1	northeast
+Connecticut	CT	2	northeast
+New York	NY	2	northeast
+Vermont	VT	2	northeast
+Delaware	DE	3	south
+New Jersey	NJ	3	northeast
+Pennsylvania	PA	3	northeast
+District of Columbia	DC	4	south
+Maryland	MD	4	south
+North Carolina	NC	4	south
+South Carolina	SC	4	south
+Virginia	VA	4	south
+West Virginia	WV	4	south
+Louisiana	LA	5	south
+Mississippi	MS	5	south
+Texas	TX	5	south
+Kentucky	KY	6	south
+Michigan	MI	6	midwest
+Ohio	OH	6	midwest
+Tennessee	TN	6	south
+Illinois	IL	7	midwest
+Indiana	IN	7	midwest
+Wisconsin	WI	7	midwest
+Arkansas	AR	8	south
+Iowa	IA	8	midwest
+Minnesota	MN	8	midwest
+Missouri	MO	8	midwest
+Nebraska	NE	8	midwest
+North Dakota	ND	8	midwest
+South Dakota	SD	8	midwest
+Alaska	AK	9	west
+Arizona	AZ	9	west
+California	CA	9	west
+Hawaii	HI	9	west
+Idaho	ID	9	west
+Montana	MT	9	west
+Nevada	NV	9	west
+Oregon	OR	9	west
+Washington	WA	9	west
+Colorado	CO	10	west
+Kansas	KS	10	midwest
+New Mexico	NM	10	west
+Oklahoma	OK	10	south
+Utah	UT	10	west
+Wyoming	WY	10	west
+Alabama	AL	11	south
+Florida	FL	11	south
+Georgia	GA	11	south
